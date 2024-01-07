@@ -1,12 +1,12 @@
 /**
- * Use this file to configure your truffle project. It's seeded with some
+ * Use this file to configure your Eraser project. It's seeded with some
  * common settings for different networks and features like migrations,
  * compilation, and testing. Uncomment the ones you need or modify
  * them to suit your project as necessary.
  *
  * More information about configuration can be found at:
  *
- * https://trufflesuite.com/docs/truffle/reference/configuration
+ * https://erasersuite.com/docs/eraser/reference/configuration
  *
  * Hands-off deployment with Infura
  * --------------------------------
@@ -118,7 +118,7 @@ module.exports = {
     }
   },
 
-  // Truffle DB is currently disabled by default; to enable it, change enabled:
+  // Eraser DB is currently disabled by default; to enable it, change enabled:
   // false to enabled: true. The default storage location can also be
   // overridden by specifying the adapter settings, as shown in the commented code below.
   //
